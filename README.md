@@ -7,7 +7,7 @@ Projeto inicial básico do curso de HTML e CSS da Alura
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Plus**
 | :label: Tecnologias | HTML, CSS, Figma, Flex-box
-| :rocket: URL         | https://github.com/VanessaSAraujo/alura-plus.git
+| :rocket: URL         | https://github.com/VanessaSAraujo/alura-plus.git / https://vanessasaraujo.github.io/alura-plus/
 | :fire: Desafio     | https://github.com/alura-cursos/aluraplus.git
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
